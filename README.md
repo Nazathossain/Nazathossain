@@ -1,57 +1,71 @@
-// About Me
 
-const NazatHossain = {
-  username: "@NazatHossain",
-  profession: "💻 MERN Stack Developer",
-  pronouns: "😄 He/Him",
-  interests: ["🌐 Building Websites", "🚀 Real-time Applications"],
-  currentlyLearning: "🌱 MERN Stack",
-  openToCollaboration: true,
-  lookingForOpportunities: "💼 Collaborate with innovative companies in web development",
-  contact: {
-    portfolio: "🔗 https://your-portfolio-link.com",
-    email: "📧 your-email@example.com"
-  },
-  funFact: "⚡ I love exploring new technologies and applying them to solve real-world problems!"
-};
 
-const skills = {
-  frontEnd: {
-    languages: ["📝 HTML5", "🎨 CSS3", "🖥️ JavaScript (ES6+)"],
-    framework: "⚛️ React.js",
-    design: "📱 Responsive Web Design"
-  },
-  backEnd: {
-    framework: "🌐 Node.js",
-    webFramework: "🛠️ Express.js",
-    api: "🔗 RESTful API Development"
-  },
-  database: ["💾 MongoDB", "🗃️ Mongoose"],
-  tools: ["🔧 Git", "🐙 GitHub", "🐳 Docker", "☁️ AWS", "🚀 Heroku"]
-};
+<body>
 
-const industriesServed = [
-  "🏢 Real Estate",
-  "🏥 Healthcare",
-  "📸 Photography",
-  "⚖️ Legal Services",
-  "🍽️ Food & Beverage"
-];
+  <h1>👋 Hi, I’m Nazat Hossain ADi</h1>
+  <p>💻 I'm a <strong>MERN Stack Developer</strong> with a passion for building websites and real-time applications. I enjoy using MongoDB, Express, React, and Node.js to create dynamic, user-friendly web applications.</p>
 
-const servicesOffered = {
-  webDevelopment: "🌍 Full-Stack Web Development",
-  customAppDevelopment: "🛠️ Custom Web Application Development",
-  apiIntegration: "🔗 API Integration & Management",
-  design: "📱 Responsive and Accessible Design",
-  databaseManagement: "💾 Database Architecture & Management"
-};
+  <div class="section">
+    <h2>🌱 Currently Learning</h2>
+    <p>I'm currently deepening my expertise in the MERN Stack and expanding my knowledge in full-stack development.</p>
+  </div>
 
-const whyChooseMe = {
-  expertise: "🎯 Proven MERN Stack expertise delivering tailored solutions.",
-  delivery: "⏳ Committed to timely delivery and high-quality results.",
-  code: "📜 Writing clean, maintainable, and scalable code.",
-  communication: "📡 Clear communication and regular updates throughout the project.",
-  clientFocus: "🤝 100% focused on client satisfaction and business needs."
-};
+  <div class="section">
+    <h2>👀 Interests</h2>
+    <ul>
+      <li>🌐 Building websites and applications</li>
+      <li>🚀 Real-time and scalable projects</li>
+    </ul>
+  </div>
 
-console.log("Let's collaborate! 🚀 Reach out via my portfolio or email.");
+  <div class="section contact-info">
+    <h2>📫 How to Reach Me</h2>
+    <ul>
+      <li>💼 Looking for opportunities to collaborate with companies on web development projects.</li>
+      <li>🔗 Visit my <a href="https://your-portfolio-link.com">Portfolio</a></li>
+      <li>📧 Contact me at <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>⚡ Fun Fact</h2>
+    <p class="fun-fact">I love exploring new technologies and integrating them into practical solutions for real-world challenges!</p>
+  </div>
+
+  <div class="section">
+    <h2>💻 Skills</h2>
+    <ul class="skills-list">
+      <li>React.js ⚛️</li>
+      <li>HTML5 📝</li>
+      <li>CSS3 🎨</li>
+      <li>JavaScript (ES6+) 🖥️</li>
+      <li>Node.js 🌐</li>
+      <li>Express.js 🛠️</li>
+      <li>MongoDB 💾</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>💼 Industries I Support</h2>
+    <ul class="industries-list">
+      <li>🏢 Real Estate</li>
+      <li>🏥 Healthcare</li>
+      <li>📸 Photography</li>
+      <li>⚖️ Legal Services</li>
+      <li>🍽️ Food & Beverage</li>
+    </ul>
+  </div>
+
+  <div class="section services-offered">
+    <h2>🔧 Services Offered</h2>
+    <ul>
+      <li>🌍 Full-Stack Web Development</li>
+      <li>🛠️ Custom Web Application Development</li>
+      <li>🔗 API Integration</li>
+      <li>📱 Responsive Web Design</li>
+      <li>💾 Database Management</li>
+    </ul>
+  </div>
+
+</body>
+</html>
