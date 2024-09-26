@@ -1,71 +1,101 @@
+--
 
+# 👋 Hi, I'm Nazat Adrian
 
-<body>
+### 🚀 MERN Stack | Android & iOS App Developer | Open-Source Contributor
 
-  <h1>👋 Hi, I’m Nazat Hossain ADi</h1>
-  <p>💻 I'm a <strong>MERN Stack Developer</strong> with a passion for building websites and real-time applications. I enjoy using MongoDB, Express, React, and Node.js to create dynamic, user-friendly web applications.</p>
+Welcome to my GitHub! I'm an experienced **MERN Stack developer** and **mobile app developer** with expertise in crafting robust, scalable applications for both web and mobile platforms. I focus on building clean, maintainable, and high-performance solutions.
 
-  <div class="section">
-    <h2>🌱 Currently Learning</h2>
-    <p>I'm currently deepening my expertise in the MERN Stack and expanding my knowledge in full-stack development.</p>
-  </div>
+---
 
-  <div class="section">
-    <h2>👀 Interests</h2>
-    <ul>
-      <li>🌐 Building websites and applications</li>
-      <li>🚀 Real-time and scalable projects</li>
-    </ul>
-  </div>
+### 🛠 Tech Stack & Tools
+- **Frontend**: React, Redux, HTML5, CSS3, JavaScript (ES6+), React Native
+- **Backend**: Node.js, Express.js, REST APIs, GraphQL
+- **Databases**: MongoDB, MySQL, Firebase
+- **Mobile Development**: React Native, Kotlin (Android), Swift (iOS)
+- **Cloud & DevOps**: AWS, Docker, Heroku, CI/CD with GitHub Actions
+- **Version Control**: Git, GitHub
+- **Testing**: Jest, Mocha, Chai, Cypress
 
-  <div class="section contact-info">
-    <h2>📫 How to Reach Me</h2>
-    <ul>
-      <li>💼 Looking for opportunities to collaborate with companies on web development projects.</li>
-      <li>🔗 Visit my <a href="https://your-portfolio-link.com">Portfolio</a></li>
-      <li>📧 Contact me at <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-    </ul>
-  </div>
+---
 
-  <div class="section">
-    <h2>⚡ Fun Fact</h2>
-    <p class="fun-fact">I love exploring new technologies and integrating them into practical solutions for real-world challenges!</p>
-  </div>
+### 🌟 Featured Projects
 
-  <div class="section">
-    <h2>💻 Skills</h2>
-    <ul class="skills-list">
-      <li>React.js ⚛️</li>
-      <li>HTML5 📝</li>
-      <li>CSS3 🎨</li>
-      <li>JavaScript (ES6+) 🖥️</li>
-      <li>Node.js 🌐</li>
-      <li>Express.js 🛠️</li>
-      <li>MongoDB 💾</li>
-    </ul>
-  </div>
+#### 🔥 [Project 1: E-Commerce Platform](https://github.com/nazatadrian/ecommerce-platform)
+- **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js)
+- **Description**: A full-featured e-commerce platform with payment integration, real-time inventory management, user authentication, and admin dashboard.
+- **Highlights**: Optimized for performance and scalability with a secure backend and smooth user experience.
+- **Features**:
+  - Payment gateway integration (Stripe/PayPal)
+  - JWT-based authentication
+  - Admin panel for product management
 
-  <div class="section">
-    <h2>💼 Industries I Support</h2>
-    <ul class="industries-list">
-      <li>🏢 Real Estate</li>
-      <li>🏥 Healthcare</li>
-      <li>📸 Photography</li>
-      <li>⚖️ Legal Services</li>
-      <li>🍽️ Food & Beverage</li>
-    </ul>
-  </div>
+#### 🚀 [Project 2: Cross-Platform Mobile App](https://github.com/nazatadrian/mobile-app)
+- **Tech Stack**: React Native, Firebase, Kotlin, Swift
+- **Description**: A mobile app available for both Android and iOS that integrates real-time notifications, geolocation, and a chat system.
+- **Highlights**: Seamless cross-platform experience with native performance.
+- **Features**:
+  - Real-time push notifications (Firebase)
+  - In-app chat and messaging
+  - Geolocation services for user tracking
 
-  <div class="section services-offered">
-    <h2>🔧 Services Offered</h2>
-    <ul>
-      <li>🌍 Full-Stack Web Development</li>
-      <li>🛠️ Custom Web Application Development</li>
-      <li>🔗 API Integration</li>
-      <li>📱 Responsive Web Design</li>
-      <li>💾 Database Management</li>
-    </ul>
-  </div>
+#### 🌍 [Project 3: Open-Source Contribution](https://github.com/nazatadrian/open-source-project)
+- **Tech Stack**: Node.js, Express.js, MongoDB
+- **Description**: Contributed to an open-source project focused on improving API performance and code optimization.
+- **Highlights**: Helped improve request handling speed by 20% through refactoring and enhanced caching techniques.
 
-</body>
-</html>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazatadrian&show_icons=true&theme=radical&count_private=true" alt="Nazat Adrian's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazatadrian&theme=radical" alt="Nazat Adrian's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazatadrian&layout=compact&theme=radical" alt="Nazat Adrian's Most Used Languages" />
+</p>
+
+---
+
+### 📚 What I'm Learning:
+- **Next.js** for server-side rendering and better performance in React apps.
+- **Kubernetes** for container orchestration.
+- **Advanced GraphQL** and integrating with Apollo Client.
+- **Flutter** to expand mobile development skills beyond React Native.
+
+---
+
+### 🏆 Achievements
+- **Open Source Contributions**: Actively contributing to several open-source projects in the JavaScript and mobile development communities.
+- **GitHub Stars**: 🌟 Received [stars] on projects for contributions in the MERN and mobile dev space.
+- **Hackathons**: 🏅 Participated and won awards at several coding hackathons.
+
+---
+
+### 💬 Let's Connect!
+
+- **LinkedIn**: [linkedin.com/in/nazatadrian](https://linkedin.com/in/nazatadrian)
+- **Portfolio**: [nazatadrian.com](https://nazatadrian.com)
+- **Twitter**: [@nazatadrian](https://twitter.com/nazatadrian)
+
+---
+
+### 👨‍💻 Work in Progress
+- [ ] Building a **mobile-first Progressive Web App** using **Next.js** and **React Native Web**.
+- [ ] Developing an **AI-powered task management app** with **Node.js** and **TensorFlow.js**.
+  
+---
+
+### 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/nazatadrian/ecommerce-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nazatadrian&repo=ecommerce-platform&theme=radical" alt="Pinned Project" />
+  </a>
+  <a href="https://github.com/nazatadrian/mobile-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nazatadrian&repo=mobile-app&theme=radical" alt="Pinned Project" />
+  </a>
+</p>
+
+---
