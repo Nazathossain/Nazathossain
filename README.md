@@ -77,7 +77,7 @@ Welcome to my GitHub! I'm an experienced **MERN Stack developer** and **mobile a
 ### 💬 Let's Connect!
 
 - **LinkedIn**: [linkedin.com/in/nazatadrian](https://linkedin.com/in/nazatadrian)
-- **Portfolio**: [nazatadrian.com](https://nazatadrian.com)
+- **Portfolio**: [nazatadrian.com](https://bit.ly/47OFVnR)
 - **Twitter**: [@nazatadrian](https://twitter.com/nazatadrian)
 
 ---
