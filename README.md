@@ -1,8 +1,8 @@
---
 
-# 👋 Hi, I'm Nazat Adrian
 
-### 🚀 MERN Stack | Android & iOS App Developer | Open-Source Contributor
+<H1 align="center">👋 Hi, I'm Nazat Adrian</H1>
+
+ 🚀 MERN Stack | Android & iOS App Developer | Open-Source Contributor
 
 Welcome to my GitHub! I'm an experienced **MERN Stack developer** and **mobile app developer** with expertise in crafting robust, scalable applications for both web and mobile platforms. I focus on building clean, maintainable, and high-performance solutions.
 
@@ -49,8 +49,8 @@ Welcome to my GitHub! I'm an experienced **MERN Stack developer** and **mobile a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazatadrian&show_icons=true&theme=radical&count_private=true" alt="Nazat Adrian's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazatadrian&theme=radical" alt="Nazat Adrian's GitHub Streaks" />
+  <img src="" />
+  <img src=" />
 </p>
 
 <p align="center">
